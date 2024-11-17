@@ -1,102 +1,102 @@
 Symbol,Name
-AAPL,Apple Inc
 NVDA,NVIDIA Corp
+AAPL,Apple Inc
 MSFT,Microsoft Corp
+AMZN,Amazon.com Inc
 AVGO,Broadcom Inc
 META,Meta Platforms Inc
-AMZN,Amazon.com Inc
 TSLA,Tesla Inc
 COST,Costco Wholesale Corp
 GOOGL,Alphabet Inc
 GOOG,Alphabet Inc
 NFLX,Netflix Inc
-AMD,Advanced Micro Devices Inc
 TMUS,T-Mobile US Inc
-PEP,PepsiCo Inc
-LIN,Linde PLC
 CSCO,Cisco Systems Inc
 ADBE,Adobe Inc
-QCOM,QUALCOMM Inc
-TXN,Texas Instruments Inc
-ISRG,Intuitive Surgical Inc
+AMD,Advanced Micro Devices Inc
+PEP,PepsiCo Inc
+LIN,Linde PLC
 INTU,Intuit Inc
-AMGN,Amgen Inc
-CMCSA,Comcast Corp
-AMAT,Applied Materials Inc
+ISRG,Intuitive Surgical Inc
+TXN,Texas Instruments Inc
+QCOM,QUALCOMM Inc
 BKNG,Booking Holdings Inc
+CMCSA,Comcast Corp
+AMGN,Amgen Inc
 HON,Honeywell International Inc
-VRTX,Vertex Pharmaceuticals Inc
-MU,Micron Technology Inc
+AMAT,Applied Materials Inc
 PANW,Palo Alto Networks Inc
 ADP,Automatic Data Processing Inc
-ADI,Analog Devices Inc
+VRTX,Vertex Pharmaceuticals Inc
 SBUX,Starbucks Corp
 GILD,Gilead Sciences Inc
+MU,Micron Technology Inc
+INTC,Intel Corp
+ADI,Analog Devices Inc
 MELI,MercadoLibre Inc
 LRCX,Lam Research Corp
-REGN,Regeneron Pharmaceuticals Inc
-INTC,Intel Corp
-KLAC,KLA Corp
-MDLZ,Mondelez International Inc
-CTAS,Cintas Corp
-PDD,PDD Holdings Inc ADR
-CEG,Constellation Energy Corp
 PYPL,PayPal Holdings Inc
+CTAS,Cintas Corp
+APP,AppLovin Corp
+MDLZ,Mondelez International Inc
+KLAC,KLA Corp
+REGN,Regeneron Pharmaceuticals Inc
 SNPS,Synopsys Inc
 CDNS,Cadence Design Systems Inc
 MAR,Marriott International Inc/MD
-MRVL,Marvell Technology Inc
 CRWD,Crowdstrike Holdings Inc
-ORLY,O'Reilly Automotive Inc
-ASML,ASML Holding NV
-NXPI,NXP Semiconductors NV
-CSX,CSX Corp
-ADSK,Autodesk Inc
+PDD,PDD Holdings Inc ADR
+MRVL,Marvell Technology Inc
 FTNT,Fortinet Inc
-ABNB,Airbnb Inc
+ORLY,O'Reilly Automotive Inc
+CEG,Constellation Energy Corp
+CSX,CSX Corp
 DASH,DoorDash Inc
-ROP,Roper Technologies Inc
+ADSK,Autodesk Inc
+ASML,ASML Holding NV
 PCAR,PACCAR Inc
-TTD,Trade Desk Inc/The
-AEP,American Electric Power Co Inc
-FANG,Diamondback Energy Inc
-MNST,Monster Beverage Corp
-PAYX,Paychex Inc
+ROP,Roper Technologies Inc
+ABNB,Airbnb Inc
+CHTR,Charter Communications Inc
+NXPI,NXP Semiconductors NV
 WDAY,Workday Inc
 CPRT,Copart Inc
-CHTR,Charter Communications Inc
+TTD,Trade Desk Inc/The
+FANG,Diamondback Energy Inc
+PAYX,Paychex Inc
+AEP,American Electric Power Co Inc
+MNST,Monster Beverage Corp
 ROST,Ross Stores Inc
-KDP,Keurig Dr Pepper Inc
 FAST,Fastenal Co
-AZN,AstraZeneca PLC ADR
 ODFL,Old Dominion Freight Line Inc
-MCHP,Microchip Technology Inc
-KHC,Kraft Heinz Co/The
-DDOG,Datadog Inc
-EXC,Exelon Corp
-GEHC,GE HealthCare Technologies Inc
+KDP,Keurig Dr Pepper Inc
+BKR,Baker Hughes Co
 EA,Electronic Arts Inc
 VRSK,Verisk Analytics Inc
-CTSH,Cognizant Technology Solutions Corp
-IDXX,IDEXX Laboratories Inc
-BKR,Baker Hughes Co
-LULU,Lululemon Athletica Inc
+DDOG,Datadog Inc
+EXC,Exelon Corp
 XEL,Xcel Energy Inc
-CCEP,Coca-Cola Europacific Partners PLC
-ON,ON Semiconductor Corp
 TEAM,Atlassian Corp
-CSGP,CoStar Group Inc
-CDW,CDW Corp/DE
-DXCM,Dexcom Inc
-SMCI,Super Micro Computer Inc
-ANSS,ANSYS Inc
-ZS,Zscaler Inc
+CTSH,Cognizant Technology Solutions Corp
+LULU,Lululemon Athletica Inc
+KHC,Kraft Heinz Co/The
+GEHC,GE HealthCare Technologies Inc
+AZN,AstraZeneca PLC ADR
+CCEP,Coca-Cola Europacific Partners PLC
+IDXX,IDEXX Laboratories Inc
+MCHP,Microchip Technology Inc
 TTWO,Take-Two Interactive Software Inc
+ZS,Zscaler Inc
+DXCM,Dexcom Inc
+CSGP,CoStar Group Inc
+ANSS,ANSYS Inc
+ON,ON Semiconductor Corp
+CDW,CDW Corp/DE
 BIIB,Biogen Inc
-ILMN,Illumina Inc
 GFS,GLOBALFOUNDRIES Inc
-MRNA,Moderna Inc
+WBD,Warner Bros Discovery Inc
+ILMN,Illumina Inc
 MDB,MongoDB Inc
 ARM,ARM Holdings PLC ADR
-WBD,Warner Bros Discovery Inc
-DLTR,Dollar Tree Inc
+MRNA,Moderna Inc
+SMCI,Super Micro Computer Inc
